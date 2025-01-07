@@ -19,7 +19,7 @@
 #define SET_DELAY_US (1000u)
 
 //! \brief How long to wait after setting the set pin to reset it.
-#define RESET_DELAY_MS (100u)
+#define RESET_DELAY_MS (500u)
 
 //! \brief Invert a voltage level.
 //!
@@ -57,5 +57,7 @@ void loop() {
   digitalWrite(SET_PIN, SET_VOLTAGE);
 
   Serial.println("TRIGGERED!");
+
   delay(RESET_DELAY_MS);
+  digitalWrite(SET_PIN, VOLTAGE_INVERT(SET_VOLTAGE));
 }
