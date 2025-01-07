@@ -16,3 +16,7 @@ To build, run `make all` in the `rpi/` subdirectory of this project, with the
 modified [dddrrreee/cs140e-24win](https://github.com/dddrrreee/cs140e-24win)
 repository. Use the bootloader provided by the build system to program the
 device with `pi-install`.
+
+## Building Arduino Code
+
+Use the Arduino IDE. This code was tested on an Arduino MEGA.
