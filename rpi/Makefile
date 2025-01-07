@@ -7,7 +7,7 @@ CFLAGS_EXTRA = -Iexternal-code
 COMMON_SRC += pi-sd.c mbr-helpers.c external-code/unicode-utf8.c external-code/emmc.c external-code/mbox.c
 
 TTYUSB =
-BOOTLOADER = $(CS140E_2024_PATH)/bin/pi-install.linux
+BOOTLOADER = pi-install
 RUN = 1
 
 EXCLUDE ?= grep -v simple_boot
