@@ -1,0 +1,2 @@
+# We use staff binaries as input, so don't ignore them
+!staff-mbr.o
