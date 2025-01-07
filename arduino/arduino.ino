@@ -16,7 +16,7 @@
 //! \brief The voltage to set the set pin to.
 #define SET_VOLTAGE (HIGH)
 //! \brief The delay to wait before setting the set pin.
-#define SET_DELAY_US (1000u)
+#define SET_DELAY_US (875u)
 
 //! \brief How long to wait after setting the set pin to reset it.
 #define RESET_DELAY_MS (500u)
