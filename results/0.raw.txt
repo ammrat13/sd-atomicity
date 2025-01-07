@@ -1,0 +1,931 @@
+Iteration 2
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580552
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 3
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582086
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 4
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2585353
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 5
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2577880
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 6
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584611
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 7
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583086
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 8
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583055
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 9
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582192
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 10
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2577966
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 11
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584214
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 12
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2581366
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 13
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582542
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 14
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582271
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 15
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2579983
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 16
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584110
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 17
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580910
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 18
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580299
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 19
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583738
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 20
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583211
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 21
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584054
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 22
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583066
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 23
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2579700
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 24
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2579843
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 25
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582926
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 26
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582632
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 27
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583158
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 28
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580426
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 29
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582018
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 30
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580235
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 31
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582576
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 32
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582542
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 33
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583066
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 34
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583746
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 35
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583298
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 36
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2579930
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 37
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582559
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 38
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583435
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 39
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584471
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 40
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2579417
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 41
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582534
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 42
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2581240
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 43
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2581445
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 44
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580277
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 45
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2584082
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 46
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583695
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 47
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2583385
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 48
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2582934
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 49
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2580173
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
+Iteration 50
+DEBUG:FOUND: </dev/ttyUSB0>
+my-install.c:main:150:pi-install: tty-usb=</dev/ttyUSB0> program=<main.bin>: about to boot
+TRACE:simple_boot: sending 17768 bytes, crc32=5c38cea4
+BOOT:waiting for a start
+BOOT:bootloader: Done.
+Starting SD card atomicity test...
+Test partition:
+	bootable  = false
+	chs_start = 0x7b0100
+	part type = 0x83 (Linux)
+	chs_end   = 0x7b203f
+	lba_start = 0x3d800
+	nsector   = 2048 (0GB)
+SDTEST-RESULT: OLD
+SDTEST-TIME: 2581858
+DONE!!!
+
+BOOT: bootloader: pi exited.  cleaning up
